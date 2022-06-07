@@ -54,8 +54,9 @@ plt.imshow(img_dilate,cmap='gray')
 
 ### Display the input Image
 
-![Uploading j1.png…]()
 
+
+![j1](https://user-images.githubusercontent.com/75234814/172302424-f566d384-5754-4c24-9bef-c13b66ca59e2.png)
 
 
 ### Display the Eroded Image
